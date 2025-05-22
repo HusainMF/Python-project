@@ -34,8 +34,7 @@
 
  ## How to Run the Analysis
  1. Clone the repository.
- 2. Install the required packages: ```bash pip install -r requirements.txt
-
+ 2. Run the notebook.
  ## Dependencies: 
  Python libraries required:
  1- pandas 
